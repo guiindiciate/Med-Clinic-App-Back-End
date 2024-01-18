@@ -1,4 +1,4 @@
-Local pra teste no swagger e JSON:
+Local pra teste API no swagger e JSON:
 
 http://server:port/v3/api-docs
 http://server:port/swagger-ui.html
